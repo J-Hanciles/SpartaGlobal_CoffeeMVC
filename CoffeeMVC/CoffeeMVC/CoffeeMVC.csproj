@@ -172,6 +172,7 @@
     <Content Include="Views\Coffee\Index.cshtml" />
     <Content Include="Views\Coffee\About.cshtml" />
     <Content Include="Views\Coffee\Coffee.cshtml" />
+    <Content Include="Views\Coffee\ListofCompetitors.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -27,5 +27,12 @@ namespace CoffeeMVC.Controllers
 
             return View();
         }
+        // List
+        public ActionResult ListofCompetitors()
+        {
+            ViewBag.Message = "Who Else?";
+
+            return View();
+        }
     }
 }
